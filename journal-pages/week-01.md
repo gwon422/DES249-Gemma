@@ -20,13 +20,13 @@ After we came up with our questions, we decided how we would record our answers.
 We drew our mode of transport, in the colour we were feeling about that week, with a circle (moon), cloud, or sun to represent when we woke up that morning in that area. Then we added a music note or a cross to answer if we had listened to music on our way to school, we originally were planning to use a tick or a cross but felt that a music note conveyed the idea better.
 **Our Group's Data Visualisation**
 
-![Our Groups Data Visualisation](https://github.com/gwon422/DES240-Gemma/blob/bdb7929e4c601091854ef8f7beab1793fef04848/assets/week-01/Our%20data.jpeg)
+![Our Groups Data Visualisation](<../assets/week-01/Our data.jpeg>)
 *Our Groups Data Visualisation*
 
 
 After, we traded with another group and tried to figure out what their data visualisation represented and answer the questions:
 
-![Other Groups Data Visualisation](https://github.com/gwon422/DES240-Gemma/blob/4303cc90183966316bcbaa89a606d72129240e8d/assets/week-01/Other%20groups%20data.jpg)
+![Other Groups Data Visualisation](<../assets/week-01/Other groups data.jpg>)
 *Other Groups Data Visualisation*
 
 - What can you learn about the people in this group from their data portrait?
@@ -36,14 +36,14 @@ After, we traded with another group and tried to figure out what their data visu
 
 We wrote our answer on sticky notes, seen in the image below.
 
-![Our Answers to the Questions](https://github.com/gwon422/DES240-Gemma/blob/bb809f876eadae8acd004f096216a451f9acc6f7/assets/week-01/Data%201.jpg)
+![Our Answers to the Questions](<../assets/week-01/Data 1.jpg>)
 *Our Group Answers to the Questions*
 
 ## Independent Data Portrait
 
 The question I chose to look at was "When, what and how much do I drink". I recorded data from Sunday to Thursday on a blank piece of paper. At the end of the data recording I visualisted the data (see image below).
 
-![Independent Data Portrait](https://github.com/gwon422/DES249-Gemma/blob/main/assets/week-01/Personal%20Data.png)
+![Independent Data Portrait](<../assets/week-01/Personal Data.png>)
 *Independent Data Portrait*
 
 ### Reflection (300–500 words) addressing:
