@@ -18,7 +18,6 @@ I grouped with three other people for the studio exercise where we came up with 
 After we came up with our questions, we decided how we would record our answers. We decided to use colours, symbols and the positioning of our answers to answer our questions. We marked out on the A3 paper North, West, South, East, and Central to represent the areas of Auckland, and then drew our answers in the general area we stay in. 
 
 We drew our mode of transport, in the colour we were feeling about that week, with a circle (moon), cloud, or sun to represent when we woke up that morning in that area. Then we added a music note or a cross to answer if we had listened to music on our way to school, we originally were planning to use a tick or a cross but felt that a music note conveyed the idea better.
-**Our Group's Data Visualisation**
 
 ![Our Groups Data Visualisation](<../assets/week-01/Our data.jpeg>)
 *Our Groups Data Visualisation*
