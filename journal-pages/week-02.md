@@ -53,14 +53,14 @@ Looking at the data I wanted to represent how much and the type of liquid intake
 
 I used Copilot to help me vibe code, as I knew how I wanted to display my data, I just needed help getting there, and making a few edits to the code given.
 
-<video controls src="../assets/week-02/Microsoft 365 Copilot 2026-03-27 10-52-30.mp4" width="200" length="200" title="Copilot Vibe Coding"></video>
+<video controls src="../assets/week-02/Microsoft 365 Copilot 2026-03-27 10-52-30.mp4" width="500" length="500" title="Copilot Vibe Coding"></video>
 *Copilot Vibe Coding* OpenAI. (2026). Copilot (Mar 20 version) [Large language model]. https://m365.cloud.microsoft/chat
 
 Step 2: Design your interactive visualisation
 
 For this step I make it so that people can interact with my  p5.js sketch using buttons and a stamp to add their own data to give the viewer control and add/make their own data.
 
-<video controls src="../assets/week-02/Interactivity.mp4" title="Interactive Data Demo"></video>
+<video controls src="../assets/week-02/Interactivity.mp4" width="500" length="500" title="Interactive Data Demo"></video>
 *Interactive Data Demo*
 
 The hand‑drawn data portrait from week 1 captures a fixed record of daily drink consumption, carefully mapping time, quantity, and drink type across the week. While this format makes the structure and chronology of the data clear, it remains static and also wasted a lot of space. 
