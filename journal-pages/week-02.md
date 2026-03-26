@@ -42,23 +42,30 @@ I learn that you always have to define what something is before using it for exa
 ## Independent Study: Interactive Data Portrait
 Overview
 
-For this task I took the data that I collected for Experiment 1 and use it as the basis my interactive p5.js sketch.
-
 Step 1: Translate your data drawing into code
-Looking at the data I wanted to represent how much and the type of liquid intake on different days in my p5.js sketch. I could do this by havīng coloured stamps to represent the different types of drinks I drank and stamp them in a line to form columns to represent different days.and have people interact by stamping them in a line to form columns.
+
+For this task I took the data that I collected for Experiment 1 and decided which pieces I wanted to represent in my p5.js sketch.
+
+Looking at the data I wanted to represent how much and the type of liquid intake on different days in my p5.js sketch and decided to do this by using diffent colour stamps to represent the different types of drinks I drank and stamp them in a line to form columns to represent different days.and have people interact by stamping them in a line to form columns.
+
+I used Copilot to help me vibe code, as I knew how I wanted to display my data, I just needed help getting there, and making a few edits to the code given.
+
+assets/week-02/Microsoft 365 Copilot 2026-03-27 10-52-30.mp4 
 
 Step 2: Design your interactive visualisation
 
-Create a p5.js sketch that includes interactive elements that allow the viewer to explore your data. Use DOM elements (e.g. buttons, sliders, text inputs, dropdowns, checkboxes) to give the viewer control over what they encounter.
 
-Consider:
 
-What can interaction reveal that your hand-drawn portrait could not?
-How do your controls relate to the structure of your data?
-What happens when the viewer changes something? Is the response immediate, gradual, surprising?
-Use the p5.js referenceLinks to an external site. and tutorialsLinks to an external site. to learn new techniques. 
+For this step I make it so that people can interact with my  p5.js sketch using buttons and a stamp to add their own data to give the viewer control and add/make their own data.
 
-Vibe coding is a legitimate creative workflow. You can use LLMs to help you build features beyond what was covered in class. Make sure to document your process and explain what you learn.
+The hand‑drawn data portrait from week 1 captures a fixed record of daily drink consumption, carefully mapping time, quantity, and drink type across the week. While this format makes the structure and chronology of the data clear, it remains static and also wasted a lot of space. 
+
+The interactive visualisation introduces choice and agency, allowing the viewer to actively reconstruct the data by stamping each data point. This interaction highlights patterns of frequency, dominance, and absence more dynamically, as accumulation becomes visible through repeated action rather than pre‑drawn marks. Unlike the paper version, the digital sketch emphasises data as an ongoing process rather than a completed artefact.
+
+The p5.js sketch has each button corresponds directly to the drink categories shown in the original paper legend (water, boba, tea bag, miso, lemonade). This mirrors the categorical colour‑coding used in the hand‑drawn chart, maintaining continuity between formats. However, while the paper version encodes time vertically and days horizontally, the digital version abstracts away from strict chronology. This shift reflects a change in focus — from documenting when each drink occurred to examining how often each category appears overall. The equal circle size reinforces that each mark represents a single, standardised data unit.
+
+When a viewer clicks a button, the colour change is immediate, making the relationship between control and outcome clear. As more circles are stamped, patterns gradually emerge, sometimes revealing imbalances that were less noticeable in the hand‑drawn format. This layering effect can be slightly surprising, as meaning develops through interaction rather than predetermined layout. Compared to the paper portrait, which presents information in a resolved form, the interactive visualisation invites interpretation through participation, reinforcing the idea that data understanding can evolve through engagement rather than observation alone.
+
 
 Step 3: Iterate
 
