@@ -12,10 +12,10 @@ Activity 1: Drawing with Code
 
 We were told to get familiar with the p5.js editor, creating a simple composition using at least three different shapes, and experimenting with colour, size, and position.
 
-I wanted to have a good idea of how to use most of the shapes so I did more than three and added some comments for notes about how the shapes worked.
+I did the basic one shown on screen, but also wanted to have a good idea of how to use most of the shapes so I did more than three and added some comments for notes about how the shapes worked.
 
-![Activity 1](../assets/week-02/W2A1.png)
-*Activity 1*
+![Shapes basic class example](../assets/week-02/Shapes.png)![Activity 1](../assets/week-02/W2A1.png)
+*Shapes basic class example* *Activity 1*
 
 Activity 2: Make an Interactive Sketch
 
