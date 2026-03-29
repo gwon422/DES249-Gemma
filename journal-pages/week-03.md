@@ -2,31 +2,60 @@
 layout: default
 ---
 
-# Week 03 - Live Data
+# Week 03 - Experiment 3: Live Data
 
 [← Back to Home](../index.md)
 
 ## Studio Exercise
+This week I was sick and completed the activities at home to the best of my abilities.
 Activity 1: Explore with cURL
 
 Get the weather for a location using its GPS coordinates
-![Weather in Auckland](../assets/week-03/Weather.png)
+![Weather in Taipei, Taiwan](<../assets/week-03/Weather by coordinates for Taiwan Taipei.png>)  
+*Weather in Taipei, Taiwan using GPS Coordinates using Command Prompt Terminal*
 
 Get the weather in a different language
+![Weather in Chinese](<../assets/week-03/Weather in Chinese.png>)  
+*Weather in Chinese using Command Prompt Terminal*
 
 Get the current moon phase
+![Moon Phase](<../assets/week-03/Moon Phase.png>)  
+*Moon Phase using Command Prompt Terminal*
+
 Look up the synonyms and antonyms of a word
+![Synonyms and Antonyms of "Happy"](../assets/week-03/Dictionary.png)  
+*Synonyms and Antonyms of the word "Happy" using Command Prompt Terminal*
+
 Find something else in the documentation that we haven't covered
+![Time of Dawn, Sunrise, Sunset](<../assets/week-03/Time of Dawn, Sunrise, Sunset.png>)  
+*Time of Dawn, Sunrise, Sunset using Command Prompt Terminal*
+
 Activity 2: Weather Visualisation
 
-Open the demo sketchLinks to an external site. in the p5.js web editor. This sketch uses the Open-Meteo APILinks to an external site. to fetch current weather data for Auckland and map it to visual properties.
+For this activity, I followed the instructions and opened the demo sketchLinks to an external site in the p5.js web editor. This sketch uses the Open-Meteo APILinks to an external site to fetch current weather data for Auckland and map it to visual properties.
 
-Experiment with the sketch:
+![Week 3 Activity 2](../assets/week-03/Current.png)  
+*p5.js web editor weather*
 
-Change the latitude and longitude to a different city and observe how the sketch changes.
-Use the data to control different visual properties: colour, position, size, number of shapes.
-Add more weather variables from the Open-Meteo documentationLinks to an external site. to the API URL.
-Try using random() or noise() alongside or instead of the live data.
+After, it said to experiment with the sketch by:
+
+Change the latitude and longitude to a different city and observe how the sketch changes. This made the shade of the background representinh the humidity darker and changed the sizes of the red rectangle and the white circle representing the wind speed and temperature respectively.
+
+![Changed Latitude and Longitude](../assets/week-03/Change%20Long%20and%20Lat.png)  
+*Changed Latitude and Longitude*
+
+After I experimented and used the data to control the colour, position and size of the shape which I changed to a square.
+
+![Experimental Data Display](../assets/week-03/Changes.png)  
+*Experimental Data Display*
+
+Then I added the weather variables 'cloud cover' from the Open-Meteo API to add on and base the background colour on the cloud cover value.
+
+![Cloud Cover Addition](<../assets/week-03/Adding cloud cover data.png>)  
+*Cloud Cover Addition*
+
+After, I tried using random() instead of the live data for one of the RGB values which resulted in the colour changing rapidly, never staying on one colour for too long.
+
 Use vibe coding to try something more ambitious.
 Use print() in the console to check the range and scale of values before trying to visualise them.
 
@@ -76,3 +105,6 @@ Consider:
 Is your protocol clear enough that someone else could follow it and produce a meaningful result?
 How does the artefact change and accumulate over time?
 What does the physical form reveal about the data that a screen-based visualisation might not?
+
+## AI Usage Statement
+As stated above, use of AI for vibe coding, M365 Copilot.

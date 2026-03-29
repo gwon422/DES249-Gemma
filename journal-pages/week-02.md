@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Week 02 - Interactive Data Portrait
+# Week 02 - Experiment 2: Interactive Data Portrait
 
 [← Back to Home](../index.md)
 
@@ -14,8 +14,11 @@ We were told to get familiar with the p5.js editor, creating a simple compositio
 
 I did the basic one shown on screen, but also wanted to have a good idea of how to use most of the shapes so I did more than three and added some comments for notes about how the shapes worked.
 
-![Shapes basic class example](../assets/week-02/Shapes.png)![Activity 1](../assets/week-02/W2A1.png)
-*Shapes basic class example* *Activity 1*
+![Shapes basic class example](../assets/week-02/Shapes.png)
+*Shapes basic class example*
+
+![Activity 1](../assets/week-02/W2A1.png)
+ *Activity 1 - Personal Extension Task*
 
 Activity 2: Make an Interactive Sketch
 
@@ -24,7 +27,7 @@ For Activity 2 we were told to using the DOM elements covered in class (createBu
 I used two DOM elements that were covered in class, createButton(), createSlider(), the button changed the colour of the circle, and the slider changed the size.
 
 ![Activity 2](../assets/week-02/W2A2.png)
-*Activity 2*
+*Activity 2 Studio*
 
 Activity 3: Vibe Code an Interactive Sketch
 
@@ -37,7 +40,7 @@ After I successfully did that I added another step onto each prompt after succes
 I learn that you always have to define what something is before using it for example, "let stamp=[]". 
 
 ![Activity 3](../assets/week-02/W2A3.png)
-*Activity 3*
+*Activity 3 - Randomised Circle Stamp Colours/Sizes*
 
 ## Independent Study: Interactive Data Portrait
 Overview
@@ -48,19 +51,19 @@ For this task I took the data that I collected for Experiment 1 and decided whic
 
 Looking at the data I wanted to represent how much and the type of liquid intake on different days in my p5.js sketch and decided to do this by using diffent colour stamps to represent the different types of drinks I drank and stamp them in a line to form columns to represent different days.and have people interact by stamping them in a line to form columns.
 
-![p5.js Sketch](<../assets/week-02/W2 Individual.png>)
+![p5.j3 Sketch](<../assets/week-02/Data Digitalised.png>)  
 *p5.j3 Sketch for personal data visualisation*
 
 I used Copilot to help me vibe code, as I knew how I wanted to display my data, I just needed help getting there, and making a few edits to the code given.
 
-<video controls src="../assets/week-02/Microsoft 365 Copilot 2026-03-27 10-52-30.mp4" width="500" length="500" title="Copilot Vibe Coding"></video>
+<video controls src="../assets/week-02/Microsoft 365 Copilot 2026-03-27 10-52-30.mp4" width="500" length="500" title="Copilot Vibe Coding"></video>  
 *Copilot Vibe Coding* OpenAI. (2026). Copilot (Mar 20 version) [Large language model]. https://m365.cloud.microsoft/chat
 
 Step 2: Design your interactive visualisation
 
-For this step I make it so that people can interact with my  p5.js sketch using buttons and a stamp to add their own data to give the viewer control and add/make their own data.
+For this step I make it so that people can interact with my  p5.js sketch using buttons and a stamp to add their own data to give the viewer control and add/make their own data, as well as reset the data, while keeping mine as an example.
 
-<video controls src="../assets/week-02/Interactivity.mp4" width="500" length="500" title="Interactive Data Demo"></video>
+![Interactive Data Demo](<../assets/week-02/Data Interactive.gif>)
 *Interactive Data Demo*
 
 The hand‑drawn data portrait from week 1 captures a fixed record of daily drink consumption, carefully mapping time, quantity, and drink type across the week. While this format makes the structure and chronology of the data clear, it remains static and also wasted a lot of space. 
@@ -77,5 +80,8 @@ Step 3: Iterate
 
 I tested this sketch on a friend, and watched them try to use it, after I realised that I didn't provide instructions and extra information on the interaction, so I added that to the interaction.
 
-![Improvements to the Interaction](../assets/week-02/Improvements.png)
+![Improvements to the Interaction](../assets/week-02/Improvements.gif)
 *Improvements to the Interaction*
+
+## AI Usage Statement
+As stated above, use of AI for vibe coding, M365 Copilot.

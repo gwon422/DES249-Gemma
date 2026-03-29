@@ -68,3 +68,6 @@ As a result of recording this data, I observed that on days when I didn’t need
 While the table offered structure, it became cramped and visually dense, especially when many of the cells were empty. Another approach that could potentially emphasise patterns rather than exhaustive detail, which made it cramped, I could have probably excluded the times as they are not very relevant to my water intake. Or I could remove the times to focus solely on amount of intake.
 
 This exercise reflects data humanism as it values subjective, lived experience over purely quantitative precision. Like the *Dear Data* project, it treats everyday behaviors that are often ignored in formal datasets as meaningful and worthy of attention. The focus is on small, personal patterns captured through careful noticing, manual recording, and expressive visualization. In this spirit, the data becomes a story about my routines, contexts, and choices.
+
+## AI Usage Statement
+No AI usage this week.
