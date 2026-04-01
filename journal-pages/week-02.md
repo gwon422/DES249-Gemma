@@ -51,7 +51,7 @@ For this task I took the data that I collected for Experiment 1 and decided whic
 
 Looking at the data I wanted to represent how much and the type of liquid intake on different days in my p5.js sketch and decided to do this by using diffent colour stamps to represent the different types of drinks I drank and stamp them in a line to form columns to represent different days.and have people interact by stamping them in a line to form columns.
 
-![p5.j3 Sketch](<../assets/week-02/Data Digitalised.png>)  
+<video controls src="../assets/week-02/Original Digi Data.mp4" width="500" length="500" title="Title"></video>
 *p5.j3 Sketch for personal data visualisation*
 
 I used Copilot to help me vibe code, as I knew how I wanted to display my data, I just needed help getting there, and making a few edits to the code given.

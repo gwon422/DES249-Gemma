@@ -55,15 +55,21 @@ Then I added the weather variables 'cloud cover' from the Open-Meteo API to add 
 *Cloud Cover Addition*
 
 After, I tried using random() instead of the live data for one of the RGB values which resulted in the colour changing rapidly, never staying on one colour for too long.
+<video controls src="../assets/week-03/Random.mp4" width="500" length="500" title="Adding Random() into the Sketch"></video>  
+*Adding Random() into the Sketch*
 
-Use vibe coding to try something more ambitious.
-Use print() in the console to check the range and scale of values before trying to visualise them.
+Using vibe coding, I tried to make something more ambitious, which was adding in randomised shapes, and having them stay for longer than half a second.
+<video controls src="../assets/week-03/Copilot reference vibe coding.mp4" width="500" length="500" title="Copilot reference vibe coding"></video>  
+*Copilot Vibe Coding* OpenAI. (2026). Copilot (Mar 20 version) [Large language model]. https://m365.cloud.microsoft/chat
+
 
 Activity 3: Design and Execute a Data Protocol
 
-In pairs, design a data protocol: a set of rules for translating a live data source. This is the analogue equivalent of an API: a defined set of rules for requesting and receiving data.
+Activity 3 was done in pairs, but as I was unwell, I did it by myself and found someone outside of class to test my set of rules for translating a live data source for the data protocal I designed. 
 
-Your protocol must specify:
+This is the analogue equivalent of an API: a defined set of rules for requesting and receiving data.
+
+My protocol was must specify:
 
 Source: what live data to observe (e.g. sounds in the room, a live transport tracker on your phone)
 Frequency: how often to check (e.g. every 10 seconds, every minute)
@@ -74,11 +80,12 @@ Swap your protocol with another pair and follow their instructions for 10 minute
 
 When time is up, compare your output with what the designers intended. Did you interpret the rules as they expected? Where was the protocol ambiguous? What surprised you about the result?
 
-Independent Study: Live Data Visualisation
+## Independent Study: Live Data Visualisation
 Overview
 
 Building on the in-class activities, create a work that engages with live data (data that is ongoing and changing). You can either take a digital approach, or an analogue/physical approach.
 
+There were two options, A (Digital) or B (Analogue/Physical), I chose to do option A.
 Option A: Digital
 
 Build a p5.js sketch that responds to live data.
