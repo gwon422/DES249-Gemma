@@ -16,7 +16,7 @@ title: Home
 | [Week 01](journal-pages/week-01.md) | Experiment 1: Data Drawings |
 | [Week 02](journal-pages/week-02.md) | Experiment 2: Interactive Data Portrait |
 | [Week 03](journal-pages/week-03.md) | Experiment 3: Live Data |
-| [Week 04](journal-pages/week-04.md) | Experiment 4 |
+| [Week 04](journal-pages/week-04.md) | Experiment 4: Artificial Intelligence |
 | [Week 05](journal-pages/week-05.md) | Proposal |
 | [Week 06](journal-pages/week-06.md) | Design Project |
 | [Week 07](journal-pages/week-07.md) | Design Project |

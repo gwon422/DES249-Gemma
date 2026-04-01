@@ -22,7 +22,6 @@ We drew our mode of transport, in the colour we were feeling about that week, wi
 ![Our Groups Data Visualisation](<../assets/week-01/Our data.jpeg>)
 *Our Groups Data Visualisation*
 
-
 After, we traded with another group and tried to figure out what their data visualisation represented and answer the questions:
 
 ![Other Groups Data Visualisation](<../assets/week-01/Other groups data.jpg>)
@@ -47,7 +46,7 @@ The question I chose to look at was "When, what and how much do I drink". I reco
 
 ### Reflection (300–500 words) addressing:
 
-Refelction Questions:
+Reflection Questions:
 
 - What did you choose to track, and why?
 - What was it like to collect and visualise this data? 
@@ -56,7 +55,7 @@ Refelction Questions:
 - How does this exercise relate to data humanism and the *Dear Data* project?
 - Any other reflections?
 
-Answer:
+Answer:  
 At first, I planned to track only my water intake and the times I drank it. However, I realized that would create a distorted picture of my hydration habits because other beverages like tea, juice, or soda also contribute to overall fluid intake and can even influence how much water I feel like drinking. By recording all drinks, I aimed for a more holistic and accurate representation of my daily liquid consumption.
 
 This choice also made the dataset more interesting: it allowed me to see patterns in types of drinks across different contexts, and it opened up richer questions about routine, mood, and environment.
