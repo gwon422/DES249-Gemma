@@ -60,7 +60,8 @@ After, I tried using random() instead of the live data for one of the RGB values
 
 Using vibe coding, I tried to make something more ambitious, which was adding in randomised shapes, and having them stay for longer than half a second.
 <video controls src="../assets/week-03/Copilot reference vibe coding.mp4" width="500" length="500" title="Copilot reference vibe coding"></video>  
-*Copilot Vibe Coding* OpenAI. (2026). Copilot (Mar 20 version) [Large language model]. https://m365.cloud.microsoft/chat
+*Copilot Vibe Coding*   
+OpenAI. (2026). Copilot (Mar 20 version) [Large language model]. https://m365.cloud.microsoft/chat
 
 
 ### Activity 3: Design and Execute a Data Protocol
@@ -89,8 +90,6 @@ I used a food recipe API to bring external data into my sketch. I tried to follo
 ![Copilot help for Recipe Randomisation](<../assets/week-02/Copilot Recipes.gif>)
 *Copilot coding help for Recipe Randomisation*  
 OpenAI. (2026). Copilot (Mar 20 version) [Large language model]. https://m365.cloud.microsoft/chat
-
-
 
 I did not know how to get the API images and recipies onto the sketch so I asked Copilot then I worked around that and added buttons, playing around with font size and button size.
 
